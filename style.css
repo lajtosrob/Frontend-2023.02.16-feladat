@@ -1,0 +1,6 @@
+table, thead, tbody, tr, th {
+    border: solid, black, 3px;
+}
+th, tr {
+    width: 150px;
+}
